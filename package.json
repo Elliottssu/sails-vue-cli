@@ -1,0 +1,22 @@
+{
+  "name": "sails-vue",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "keywords": [],
+  "dependencies": {
+    "sails": "~0.12.13",
+    "swig": "^1.4.2"
+  },
+  "scripts": {
+    "debug": "node debug app.js",
+    "start": "node app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lianggangsu/sails-vue.git"
+  },
+  "author": "lianggangsu",
+  "license": ""
+}
