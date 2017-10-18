@@ -9,7 +9,6 @@
  * any private information to this file!
  *
  */
-
 module.exports = {
 
   /***************************************************************************
@@ -20,5 +19,10 @@ module.exports = {
   // models: {
   //   connection: 'someMongodbServer'
   // }
+  port: 8070,
+  paths: {
+    public: __dirname + '/../../www'
+  },
+  
 
 };

@@ -35,4 +35,7 @@ module.exports = {
   //   level: "silent"
   // }
 
+  paths: {
+    public: __dirname + '/../../www'
+  },
 };
